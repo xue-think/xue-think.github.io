@@ -1,0 +1,29 @@
+title: o-oの世界
+author: xue
+subtitle: The thoughts of xue
+
+url: "https://xue-think.github.io"
+baseurl: "/parchment"
+
+footer_only_homepage: true
+footer_url: "https://xue-think.github.io"
+footer_text: "Theme by rhl-bthr, modified by Xue"
+
+profile-picture: assets/profile.png
+favicon_location: assets/favicon.ico
+
+permalink: /:year-:month-:day-:title/
+sass:
+    style: compressed
+    sass_dir: css
+
+navbar:
+ - name: "Category"
+   link: "tags.html"
+ - name: "About"
+   link: "about"
+#  - name: "Resume"
+#    absolute-link: "https://rahulbothra.com/cv.pdf"
+
+
+# modified by Xue to adapt my requirements
