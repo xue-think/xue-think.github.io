@@ -34,4 +34,4 @@ title: About Me
 
 ---------------------
 
-四川er → 上海 → Dallas（TX）→ San Jose(CA) → [hiden current]
+四川er → 上海 → Dallas（TX）→ San Jose(CA) → DMV (NOVA)
