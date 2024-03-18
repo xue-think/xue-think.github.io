@@ -23,11 +23,6 @@ navbar:
  - name: "About"
    link: "about"
 
-
-#  - name: "Resume"
-#    absolute-link: "https://rahulbothra.com/cv.pdf"
-
-
 # modified by Xue to adapt my requirements
 plugins:
   - tag_generator.rb
