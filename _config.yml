@@ -29,3 +29,5 @@ navbar:
 
 
 # modified by Xue to adapt my requirements
+plugins:
+  - tag_generator.rb
