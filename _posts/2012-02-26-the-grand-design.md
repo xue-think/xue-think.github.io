@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A-not-that-much-worth-reading-notes from a good book
-tags: [书相关~books related]
+tags: [书相关 books related]
 ---
 
 In this ambitious book <The Grand Design>, Stephen Hawking tried to answer 3 ultimate questions:

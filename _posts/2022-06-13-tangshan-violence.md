@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 关于唐山事件的几点思考
-tags: [杂记, 政治记]
+tags: [政治 父权 心理]
 ---
 
 

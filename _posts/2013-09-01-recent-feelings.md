@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 近期感触
-tags: [生活~so called life]
+tags: [生活 so called life]
 ---
 
 

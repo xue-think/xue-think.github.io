@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 换个角度来看自己－偶尔的反省和展望
-tags: [生活~so called life]
+tags: [生活 so called life]
 ---
 
 真正的把工作当成生活中的一部分，开始坚信工作是可以通过智慧提升的，开始有so called所谓的职业特征，需要提升的部分包括：

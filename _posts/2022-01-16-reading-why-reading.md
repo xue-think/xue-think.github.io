@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 读书：为什么读
-tags: [书相关~books related]
+tags: [书相关 books related]
 ---
 
 

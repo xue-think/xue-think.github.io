@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  她原本可以不用死的：《桶川跟踪狂杀人事件》
-tags: [书相关~books related]
+tags: [书相关 books related，政治 父权 心理]
 ---
 
 

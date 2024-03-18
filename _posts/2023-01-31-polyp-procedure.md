@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 微创手术流水账
-tags: [杂记]
+tags: [生活 so called life]
 ---
 
 说是手术，其实用的单词是 procedure，不是 surgery，国内叫微创吧。

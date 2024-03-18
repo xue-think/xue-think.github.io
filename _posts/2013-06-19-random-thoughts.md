@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 吐槽一则 + 思路几则
-tags: [生活~so called life]
+tags: [生活 so called life]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 世界睡眠日早起的胡思乱想
-tags: [生活~so called life]
+tags: [生活 so called life]
 ---
 
 我很喜欢咖啡，茶，奶茶，但是却比较不能享受它们

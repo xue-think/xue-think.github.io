@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 杂思：有感于最近的社会事件 
-tags: [杂记]
+tags: [政治 父权 心理]
 ---
 
 

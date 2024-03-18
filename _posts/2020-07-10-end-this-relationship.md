@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我给某些事划上了一个句号
-tags: [情欲记]
+tags: [生活 so called life]
 ---
 
 

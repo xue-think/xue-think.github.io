@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 三个大脑，我们可以做的更好
-tags: [生活~so called life]
+tags: [生活 so called life]
 ---
 
 

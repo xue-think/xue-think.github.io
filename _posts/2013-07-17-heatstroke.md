@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 夏天来了，我中暑了，每天都要睡10h以上
-tags: [生活~so called life]
+tags: [生活 so called life]
 ---
 
 

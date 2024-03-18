@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 生育制度是骗局吗？
-tags: [杂记, 政治记]
+tags: [政治 父权 心理]
 ---
 
 

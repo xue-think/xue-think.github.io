@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 时光催人老，啊！
-tags: [生活~so called life]
+tags: [生活 so called life]
 ---
 
 

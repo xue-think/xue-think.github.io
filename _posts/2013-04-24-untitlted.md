@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 无题五则
-tags: [生活~so called life]
+tags: [生活 so called life]
 ---
 最近发生了很多事情，各种事情，所以也有一些思考。
 
