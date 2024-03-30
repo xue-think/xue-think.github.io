@@ -2,21 +2,37 @@
 layout: default
 ---
 
+{% assign post_date = page.date | date: "%s" %}
+{% assign current_date = "now" | date: "%s" %}
+{% assign difference = current_date | minus: post_date %}
+{% assign days_ago = difference | divided_by: 86400 %}
+
+<p>Posted {{ days_ago }} days ago on {{ page.date | date_to_string: "%B %d, %Y" }} in
+    <span>
+        {% for tag in page.tags %}
+        {% capture tag_name %}{{ tag }}{% endcapture %}
+        <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+        {% endfor %}
+    </span>
+</p>
+
 <div class="page-subtitle">
     <!-- {% for tag in page.tags %}
-        {% if page.tags.first == tag %}
-            <b>[</b>
-        {% endif %}
-        <a href="{{ site.baseurl }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>
-        {% if page.tags.last == tag %}
-            <b>]</b>
-        {% else %}
-            ,
-        {% endif %}
+    {% if page.tags.first == tag %}
+    <b>[</b>
+    {% endif %}
+    <a href="{{ site.baseurl }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>
+    {% if page.tags.last == tag %}
+    <b>]</b>
+    {% else %}
+    ,
+    {% endif %}
     {% endfor %} -->
 </div>
 
 {{content}}
+
+
 
 
 <script src="https://utteranc.es/client.js"
