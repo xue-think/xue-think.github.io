@@ -4,8 +4,6 @@ title: 什么是正常
 tags: [心理-大脑-政治]
 ---
 
-# 什么是正常
-
 
 是看 [Is Anyone Normal?](https://www.youtube.com/watch?v=7r101wrP96Y) 的笔记📒，到底什么是正常？
 
