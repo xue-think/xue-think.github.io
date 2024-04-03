@@ -18,8 +18,8 @@ sass:
     sass_dir: css
 
 navbar:
- - name: "Category"
-   link: "tags.html"
+ - name: "Archive"
+   link: "archive.html"
  - name: "About"
    link: "about"
 
