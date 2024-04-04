@@ -25,7 +25,3 @@ navbar:
    link: "archive.html"
  - name: "About"
    link: "about"
-
-# modified by Xue to adapt my requirements
-# plugins:
-#   - tag_generator.rb
