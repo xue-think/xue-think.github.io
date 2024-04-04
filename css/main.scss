@@ -303,3 +303,17 @@ table tr th :last-child, table tr td :last-child {
     padding: 10px 20px 20px 20px; /* Add padding for spacing */
     margin-bottom: 20px; /* Add margin between posts */   
 }
+
+
+.pagination {
+    text-align: center;
+}
+
+.pagination a {
+    margin: 0 5px;
+}
+
+.pagination a.previous,
+.pagination a.next {
+    font-weight: bold;
+}
