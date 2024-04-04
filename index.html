@@ -17,7 +17,7 @@ paginate: 5
     </p>
   </header>
   <section>
-    {{ post.content }}
+    {{  post.content | truncate_exact: 500 }}
   </section>
 </article>
 {% endfor %}
