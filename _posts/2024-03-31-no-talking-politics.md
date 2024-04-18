@@ -1,5 +1,5 @@
 ---
-layout: draft
+layout: post
 title: 莫谈国事，不谈政治
 tags: [心理-大脑-政治]
 ---
