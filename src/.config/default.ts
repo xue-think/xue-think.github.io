@@ -9,7 +9,7 @@ export const defaultConfig: ThemeConfig = {
     subtitle: 'In Between',
     author: 'o-o',
     description: 'Rediscory the beauty of typography',
-    website: 'https://astro-theme-typography.vercel.app/',
+    website: 'https://xue-think.github.io/',
     pageSize: 5,
     socialLinks: [
       {
