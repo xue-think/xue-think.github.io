@@ -1,5 +1,5 @@
 ---
-title: 开发日志
+title: 开发日志之核心玩法
 pubDate: 2025-12-25T12:00:00-05:00
 categories: ['Devlog']
 description: ''
