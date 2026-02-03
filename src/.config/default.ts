@@ -13,6 +13,10 @@ export const defaultConfig: ThemeConfig = {
     pageSize: 5,
     socialLinks: [
       {
+        name: 'rss',
+        href: '/atom.xml',
+      },
+      {
         name: 'mastodon',
         href: 'https://m.cmx.im/@xue',
       },
