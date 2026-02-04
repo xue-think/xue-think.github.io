@@ -5,20 +5,28 @@ import type { ThemeConfig } from '~/types'
 
 export const defaultConfig: ThemeConfig = {
   site: {
-    title: '表里之间',
-    subtitle: 'In Between',
-    author: 'o-o',
+    title: '活版印字',
+    subtitle: 'Typography',
+    author: 'Moeyua',
     description: 'Rediscory the beauty of typography',
-    website: 'https://xue-think.github.io/',
+    website: 'https://astro-theme-typography.vercel.app/',
     pageSize: 5,
     socialLinks: [
+      {
+        name: 'github',
+        href: 'https://github.com/moeyua/astro-theme-typography',
+      },
       {
         name: 'rss',
         href: '/atom.xml',
       },
       {
+        name: 'twitter',
+        href: 'https://github.com/moeyua/astro-theme-typography',
+      },
+      {
         name: 'mastodon',
-        href: 'https://m.cmx.im/@xue',
+        href: 'https://github.com/moeyua/astro-theme-typography',
       },
     ],
     navLinks: [
@@ -47,7 +55,7 @@ export const defaultConfig: ThemeConfig = {
     ],
   },
   appearance: {
-    theme: 'light',
+    theme: 'system',
     locale: 'zh-cn',
     colorsLight: {
       primary: '#2e405b',
