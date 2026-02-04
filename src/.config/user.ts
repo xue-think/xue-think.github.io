@@ -6,7 +6,17 @@ export const userConfig: Partial<ThemeConfig> = {
     subtitle: 'In Between',
     author: 'o-o',
     description: 'A brief moment in between',
-    website: 'https://dr2quan.github.io',
+    website: 'https://xue-think.github.io',
+    socialLinks:[
+      {
+        name: 'rss',
+        href: '/atom.xml',
+      },
+      {
+        name: 'mastodon',
+        href: 'https://m.cmx.im/@xue',
+      }
+    ],
     categoryMap: [
       { name: '表里之间', path: 'in-between' },
     ],
