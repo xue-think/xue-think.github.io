@@ -2,7 +2,7 @@
 title: Enjoy the Moment
 pubDate: 2026-08-11T12:00:00-05:00
 categories: ['acting','纽约行']
-description: '既然是自己选择上台，为什么不多多享受？Enjoy the moment'
+description: '既然是自己选择上台，为什么不多多享受？Enjoy the moment!'
 slug: 2026-08-11-moment
 ---
 
